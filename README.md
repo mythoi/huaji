@@ -1,1 +1,1 @@
-# huaji
+# JavaScript滑稽特效
